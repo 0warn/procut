@@ -4,12 +4,12 @@
   <p align="center">
     A simple and fast hash cracker written in Go.
     <br />
-    <a href="https://github.com/CYBER-4RMY/procut/blob/master/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/0warn/procut/blob/master/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/CYBER-4RMY/procut/issues">Report Bug</a>
+    <a href="https://github.com/0warn/procut/issues">Report Bug</a>
     ·
-    <a href="https://github.com/CYBER-4RMY/procut/issues">Request Feature</a>
+    <a href="https://github.com/0warn/procut/issues">Request Feature</a>
   </p>
 </div>
 
@@ -68,7 +68,7 @@ To get a local copy up and running follow these simple steps.
 
 1.  Clone the repo
     ```sh
-    git clone https://github.com/CYBER-4RMY/procut.git
+    git clone https://github.com/0warn/procut.git
     ```
 2.  Navigate to the `procut` directory
     ```sh
@@ -127,7 +127,7 @@ echo -n "mrinalini" | sha256sum | awk '{print $1}' > hash.txt
 -   [ ] Add mask attack mode
 -   [ ] Add automatic hash type detection
 
-See the [open issues](https://github.com/CYBER-4RMY/procut/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/0warn/procut/issues) for a full list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
