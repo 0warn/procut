@@ -1,10 +1,10 @@
 <div align="center">
-  <h3 align="center">Go Hash Cracker</h3>
+  <h3 align="center">PROCUT</h3>
 
   <p align="center">
     A simple and fast hash cracker written in Go.
     <br />
-    <a href="https://github.com/CYBER-4RMY/procut"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/CYBER-4RMY/procut/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/CYBER-4RMY/procut/issues">Report Bug</a>
